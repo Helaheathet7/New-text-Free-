@@ -1,0 +1,12 @@
+Libraries specifically for lexical analysis (or lexing) and syntactic analysis 
+(or parsing).
+
+* [flex][491] - Fast lexical analyzer generator. [BSD-2-Clause][24].
+* [GNU Bison][492] - General-purpose parser generator that converts an
+  annotated context-free grammar into a range of parsers. [GPL-3.0+][41].
+* [hammer][356] - Parser combinators for binary formats. [GPL-2.0][8].
+* [mpc][238] - Parser combinator library. [BSD-2-Clause][24].
+* [re2c][34] - Lexer generator, producing very fast lexers, with access to its
+  internals. Public domain.
+
+## Memory Management ##
